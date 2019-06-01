@@ -34,7 +34,7 @@ Your output will be Q lines, with each line printing all available hotel prices 
 
  
 
-### Sample input:
+# Sample input:
 
 ### 7
 ### Toronto,A,100.00
@@ -51,7 +51,7 @@ Your output will be Q lines, with each line printing all available hotel prices 
 ### Kitchener,10
 
 
-Desired Output:
+# Desired Output:
 
 ### 110.00,150.00
 ### None
