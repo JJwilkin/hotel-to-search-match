@@ -49,10 +49,9 @@ Your output will be Q lines, with each line printing all available hotel prices 
 ### North York,2
 ### Waterloo,8
 ### Kitchener,10
-### 
- ### 
 
-### Output:
+
+Desired Output:
 
 ### 110.00,150.00
 ### None
