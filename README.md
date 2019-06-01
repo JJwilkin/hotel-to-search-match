@@ -58,4 +58,5 @@ Your output will be Q lines, with each line printing all available hotel prices 
 ### 17.99
 ### 24.00,25.00,25.00
 
-CODED SOLUTION: https://codeinterview.io/UKQNWNWSJE or check .py file.
+# CODED SOLUTION: 
+https://codeinterview.io/UKQNWNWSJE or check .py file.
