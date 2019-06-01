@@ -1,6 +1,8 @@
 # hotel-to-search-match
 ## Context
-Written as part of a SnapTravel's technical coding challenges ( See attached .txt file for reference)
+Written as part of a SnapTravel's technical coding challenges. 
+Use any language of choice.
+
 
 ## Challenge
 
