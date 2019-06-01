@@ -53,7 +53,6 @@ Waterloo,8
 Kitchener,10
 
  
-
 Output:
 
 110.00,150.00
